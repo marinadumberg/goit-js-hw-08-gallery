@@ -133,4 +133,4 @@ function closeModalOverlay(e) {
     
         refs.modalOpen.classList.remove('is-open');
         refs.imgSubstitution.setAttribute('src', '');
-    };
+};
