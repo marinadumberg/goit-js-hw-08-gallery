@@ -1,4 +1,4 @@
-import galleryOfPictures from "/gallery-items.js";
+import galleryOfPictures from "./gallery-items.js";
 console.log(galleryOfPictures);
 
 const refs = {
